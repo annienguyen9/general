@@ -1,8 +1,10 @@
 ### Hi! It's nice to meet you :) 👋
 
-I'm Annie Nguyen, a recent neuroscience and architectural design graduate from Stanford University. Currently, I'm in Mark Krasnow's Lab in the School of Medicine Biochemistry Department, studying peripheral neuroscience. With GitHub I hope to document my first independent foray into omics, starting with transcriptomics (particularly snRNA-seq), epigenomics, and spatialomics (MERFISH). Perhaps my journey will culminate with machine learning and other exciting computational methods for multi-omic integration... Who knows! Until then, happy coding! 
+I'm Annie Nguyen, a recent neuroscience and architectural design graduate from Stanford University. Currently, I'm in Mark Krasnow's Lab in the School of Medicine Biochemistry Department, studying peripheral neuroscience. 
 
-If you notice errors or have any suggestions, please don't hesitate to reach out! I'm here to learn and improve everyday, so all advice is warmly welcomed :)
+I'm using GitHub to document my first independent foray into omics, starting with transcriptomics (particularly snRNA-seq), epigenomics, and spatialomics (MERFISH). Perhaps my journey will culminate with machine learning and other exciting computational methods for multi-omic integration... Who knows! I'm sure these technologies will continue to advance rapidly, so if you have any suggestions, notice errors, or just want to chat, please don't hesitate to reach out! I'm here to learn and improve everyday, so all advice is warmly welcomed :)
+
+-ATN
 
 <!--
 **annienguyen9/annienguyen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
