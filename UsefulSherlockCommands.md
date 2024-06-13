@@ -1,6 +1,12 @@
 # **Useful Commands for Sherlock Job Execution:**
 
 ### Storage
+Here is where we recommend storing different types of files and data on Sherlock:
+personal scripts, configuration files and software installations → $HOME
+group-shared scripts, software installations and medium-sized datasets → $GROUP_HOME
+temporary output of jobs, large checkpoint files → $SCRATCH
+curated output of job campaigns, large group-shared datasets, archives → $OAK
+
 To check your quota usage on the different filesystems you have access to, you can use the sh_quota command:
 ```
 sh_quota
