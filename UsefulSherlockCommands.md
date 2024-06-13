@@ -1,5 +1,11 @@
 # **Useful Commands for Sherlock Job Execution:**
 
+### Storage
+To check your quota usage on the different filesystems you have access to, you can use the sh_quota command:
+```
+sh_quota
+```
+
 ### Partitioning
 1. to examine the status of CPUs in our partition: sinfo --format=%C -p krasnow
  - the output will be listed as "CPUS(A/I/O/T)" which stands for:
