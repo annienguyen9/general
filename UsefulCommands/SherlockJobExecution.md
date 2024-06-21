@@ -96,7 +96,12 @@ To check your place in the queue and get an estimate of if/when your job will be
         - R (Running): The job is currently running on a compute node. This means that the resources requested by the job have been allocated, and the job is actively using those resources.
         - CG (Completing): The job has finished its execution and is in the process of completing. This typically involves tasks such as finalizing output files, cleaning up resources, and performing any necessary post-processing steps before the job is considered finished.
         - PD (Pending): The job is waiting in the queue to be scheduled and executed. This means that the resources requested by the job are not currently available, and the job is waiting for those resources to become available.
-          
+
+This code will list all jobs in a specific partition. Here we're using "krasnow"
+```
+squeue -p krasnow
+```
+
 - If you want more detailed information about a specific job, you can use the scontrol show job command followed by the job ID:
   ```
   scontrol show job job_id
