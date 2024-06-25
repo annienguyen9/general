@@ -20,6 +20,12 @@ sh_quota
       - O (Other): The number of CPUs in other states (e.g., drained, down, or reserved).
       - T (Total): The total number of CPUs available on the system.
         - Here's an example: "CPUS(A/I/O/T), 38/90/0/128"
+       
+To examine the number of available nodes within different partitions, use:
+```
+sh_part
+```
+^from Chinmay - use owners
 
 ### Submitting a Job
 To submit a job to the Sherlock computing nodes, you'll need to create a job script, typically a shell script, that contains the commands you want to run. Here's an example of how you can create a job script to run the cellranger count command:
